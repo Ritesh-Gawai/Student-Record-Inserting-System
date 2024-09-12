@@ -15,7 +15,7 @@ The **Student Record Inserting System** is a desktop application built using **J
 
 Here is a screenshot of the Student Record Inserting System:
 
-![Student Record Inserting System](assest/screenshot.png)
+![Student Record Inserting System](assest/weather-application-screenshot1.png)
 
 ## Tech Stack
 
