@@ -11,6 +11,12 @@ The **Student Record Inserting System** is a desktop application built using **J
 - **Real-Time Validation:** Ensures that no fields are left empty before submitting the form.
 - **Feedback:** Provides user feedback on successful record insertion or if any error occurs during the process.
 
+## Screenshots
+
+Here is a screenshot of the Student Record Inserting System:
+
+![Student Record Inserting System](assest/screenshot.png)
+
 ## Tech Stack
 
 - **Frontend:** Java Swing (for GUI)
