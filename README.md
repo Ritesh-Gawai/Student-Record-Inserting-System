@@ -1,8 +1,8 @@
-Student Record Inserting System
-Overview
+**Student Record Inserting System**
+**Overview**
 The Student Record Inserting System is a desktop application built using Java Swing for the GUI and Hibernate ORM for database management. The application allows users to input student details, such as their name and roll number, and store them in a PostgreSQL database.
 
-Features
+**Features**
 User-Friendly GUI: Developed using Java Swing, the application provides a simple interface for adding student records.
 Database Integration: Uses Hibernate ORM to interact with a PostgreSQL database for storing student data.
 Real-Time Validation: Ensures that no fields are left empty before submitting the form.
@@ -22,7 +22,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/student-record-inserting-system.git
+git clone https://github.com/Ritesh-Gawai/student-record-inserting-system.git
 Set up PostgreSQL:
 
 Create a PostgreSQL database:
